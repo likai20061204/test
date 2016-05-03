@@ -1,0 +1,19 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browserify": "^13.0.0",
+    "famous": "^0.7.1",
+    "gulp": "^3.9.1",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "gulp && cordova serve"
+  },
+  "author": "",
+  "license": "ISC"
+}
